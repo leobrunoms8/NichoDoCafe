@@ -1,0 +1,20 @@
+{
+    "name": "leonardo/nichodocafe",
+        "require": {
+            "php": ">=8.2.12"
+        },
+        "authors": [
+            {
+                "name": "Leonardo B M Soares",
+                "email": "leobrunoms8@hotmail.com"
+            }
+        ],
+        "autoload": {
+            "psr-4": {
+                "App\\": "App",
+                "MF\\": "vendor/MF/"
+            }
+        }
+
+
+}
